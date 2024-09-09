@@ -1,0 +1,1 @@
+This project is a proposed method of aiding civil engineers and their team to conduct structural health monitoring usign computer vision techniques (ResNet model). This model is not the substitute of an engineer instead serves as an aid and envisions possible digital growth in the civil engineering industry. It is in initial stages and requries more furnishing.
